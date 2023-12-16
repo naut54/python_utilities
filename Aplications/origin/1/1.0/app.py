@@ -23,7 +23,7 @@ class app_1:
         self.button1.pack(pady=10)
         self.button1.configure(fg = f_c_3, bg = b_c)
         
-        self.v = tk.Label(root, text = "Versión 1.0.3")
+        self.v = tk.Label(root, text = "Versión 1.1.3")
         self.v.pack(side="bottom", anchor="sw")
         self.v.configure(fg = f_c_2, bg = b_c)
     def web_e(self):

@@ -43,5 +43,3 @@ def ac():
     root = tk.Tk()
     app = p_g(root)
     root.mainloop()
-
-ac()
