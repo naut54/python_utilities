@@ -6,3 +6,10 @@ A few utilities designed to make life easier
 >Password generator not fully working
 >
 >This is a early version, please be patient
+
+>[!NOTE]
+>Upcoming Features:
+>
+>Custom Folders Generator
+>
+>Timer
